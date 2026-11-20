@@ -12,14 +12,17 @@ I build projects where **machine learning, data and robotics** meet real hardwar
 ## Featured projects
 
 **🚁 Drone-based municipal infrastructure inspection**
+
 A DJI Tello drone streams video to a laptop running a YOLOv8n model that classifies streetlights and traffic lights as working or faulty. A Streamlit dashboard compares detections with Arduino ground-truth fault states.
 `Python` `YOLOv8` `Streamlit` `Arduino` `Google Colab`
 
 **🔢 Handwritten digit classification (Data Analytics group project)**
+
 Scikit-learn pipeline on the Digits dataset comparing Logistic Regression (97.22% test accuracy) with Random Forest (96.39% test accuracy, 97.56% cross-validation), with learning curves and error analysis.
 `Python` `Scikit-learn`
 
 **🐔 Smart poultry enclosure**
+
 ESP32 control system for automated feeding, watering and temperature monitoring using load cells, ultrasonic and DHT11 sensors, relays, a servo and a pump.
 `ESP32` `Embedded C`
 
