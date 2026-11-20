@@ -35,4 +35,4 @@ Looking for a graduate or junior role in **data analytics, machine learning or r
 
 ## Get in touch
 
-📍 Durban, KwaZulu-Natal · 💼 [LinkedIn]([https://www.linkedin.com/in/nontsikelelo-linda-6a3740310/])
+📍 Durban, KwaZulu-Natal · 💼 [LinkedIn](https://www.linkedin.com/in/nontsikelelo-linda-6a3740310/)
