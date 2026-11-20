@@ -29,7 +29,9 @@ ESP32 control system for automated feeding, watering and temperature monitoring 
 ## Tech
 
 **Data and ML:** Python · Scikit-learn · YOLOv8 · Streamlit · MATLAB
+
 **Embedded:** Embedded C · C/C++ · ESP32 · Arduino · Raspberry Pi Pico
+
 **Tools:** NI Multisim · Cadence AWR · SolidWorks · Google Colab
 
 ## Currently
